@@ -35,8 +35,3 @@ public class Selection {
     }
 
 }
-
-
-    eSystem.out.println("Hello, World!");
-
-
